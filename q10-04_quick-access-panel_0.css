@@ -130,7 +130,7 @@
 
 @media screen and (max-width: 1200px) {
      .qa-panel {
-        display: none;
+        display: block;
     }
 }
 

@@ -2079,8 +2079,7 @@ body.p-achievements.p-profiles .l-top_menu-v2 .menu-dropdown a {
     display: block;
   }
   
-  /*** ENGI end code ***/
-  /******* Spoiler structure by grin3671/Redesighed by Enginier ********/
+
   .fullwidth > .b-spoiler > label {
     display: block !important;
     padding: 0.47em 6em 0.47em  6em;
@@ -2695,7 +2694,6 @@ body.p-achievements.p-profiles .b-anime_status_tag.episode, .b-anime_status_tag.
   .l-top_menu {
     background: linear-gradient(to bottom, rgba(var(--menu-back), 0.8) 0%, rgba(var(--menu-back), 0.6) 70%, rgba(var(--menu-back), 0.4) 100%);
     box-shadow: 0 1px 20px 10px rgba(var(--menu-back), 0.4) !important;
-    /* Код EngiNier */
   }
   
 

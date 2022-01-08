@@ -1,8 +1,4 @@
-/*mobile*/
-.showmobile { display: none; }
-   @media only screen
-     and (min-device-width : 320px)
-     and (max-device-width : 1200px){ .showmobile { display: inline; }
+}
 /*Аниме*/
       /*cod*/
   .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="9253"] img {

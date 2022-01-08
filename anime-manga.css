@@ -1,3 +1,4 @@
+}
 /*Аниме*/
       /*cod*/
   .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="9253"] img {
@@ -419,4 +420,5 @@
 }
 .cc-favourites .c-manga a[href*="111996"] .image-cutter::before {
     content: "Бог старшей школы";
+}
 }

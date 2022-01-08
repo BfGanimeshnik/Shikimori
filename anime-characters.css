@@ -1,9 +1,5 @@
 /*Персонажи*/
       /*cod*/
-@media screen and (max-width: 600px) {
-  .hidemobile {
-    visibility: hidden;
-    display: none;
 .cc-favourites [class*="b-catalog_entry"] > a[href*="65229"] img {
     visibility: hidden;
 }
@@ -131,5 +127,4 @@
 }
 .cc-favourites .c-character a[href*="157935"] .image-decor::before {
     content: "Мори Джин";
-}
 }

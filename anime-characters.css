@@ -1,213 +1,132 @@
-}
-/*Аниме*/
+/*Персонажи*/
       /*cod*/
-  .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="9253"] img {
+@media screen and (min-width: 1200px) {
+.cc-favourites [class*="b-catalog_entry"] > a[href*="65229"] img {
     visibility: hidden;
 }
-.cc-favourites .c-anime a[href*="9253"] .image-cutter {
-    background: url("https://moe.shikimori.one/system/images/original/122497.gif") no-repeat center / cover;
+.cc-favourites .b-catalog_entry a[href*="65229"] .image-cutter {
+    background: url("https://nyaa.shikimori.one/system/images/original/122480.gif") no-repeat 15% 15% / 121%;
 }
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="38691"] img {
+.cc-favourites .c-character a[href*="65229"] .image-cutter::after {
+       content: "💞"; 
+       font-size: 15px;   
+}
+.cc-favourites .c-character a[href*="65229"] .image-cutter::before {
+    content: "Человек";
+}
+.cc-favourites .c-character a[href*="65229"] .image-decor::before {
+    content: "Майн";
+}
+.cc-favourites [class*="b-catalog_entry"] > a[href*="63351"] img {
     visibility: hidden;
 }
-.cc-favourites .c-anime a[href*="38691"] .image-cutter {
-    background: url("https://nyaa.shikimori.one/system/images/original/122500.gif") no-repeat center / cover;
+.cc-favourites .b-catalog_entry a[href*="63351"] .image-cutter {
+    background: url("https://moe.shikimori.one/system/images/original/115167.gif") no-repeat 15% 15% / 121%;
 }
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="30484"] img {
+.cc-favourites .c-character a[href*="63351"] .image-cutter::after {
+       content: "💞"; 
+       font-size: 15px;    
+}
+.cc-favourites .c-character a[href*="63351"] .image-cutter::before {
+    content: "Человек";
+}
+.cc-favourites .c-character a[href*="63351"] .image-decor::before {
+    content: "Акаме";
+}
+.cc-favourites [class*="b-catalog_entry"] > a[href*="35252"] img {
     visibility: hidden;
 }
-.cc-favourites .c-anime a[href*="30484"] .image-cutter {
-    background: url("https://kawai.shikimori.one/system/images/original/122496.gif") no-repeat center / cover;
+.cc-favourites .b-catalog_entry a[href*="35252"] .image-cutter {
+    background: url("https://dere.shikimori.one/system/images/original/122484.gif") no-repeat 0% 0% / 105%;
 }
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="11577"] img {
+.cc-favourites .c-character a[href*="35252"] .image-cutter::after {
+       content: "💞"; 
+       font-size: 15px;    
+}
+.cc-favourites .c-character a[href*="35252"] .image-cutter::before {
+    content: "18 лет, Человек";
+}
+.cc-favourites .c-character a[href*="35252"] .image-decor::before {
+    content: "Ринтаро Окабэ";
+}
+.cc-favourites [class*="b-catalog_entry"] > a[href*="34470"] img {
     visibility: hidden;
 }
-.cc-favourites .c-anime a[href*="11577"] .image-cutter {
-    background: url("https://kawai.shikimori.one/system/images/original/122501.gif") no-repeat center / cover;
+.cc-favourites .b-catalog_entry a[href*="34470"] .image-cutter {
+    background: url("https://desu.shikimori.one/system/images/original/122473.gif") no-repeat 15% 15% / 121%;
 }
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="33502"] img {
+.cc-favourites .c-character a[href*="34470"] .image-cutter::after {
+       content: "💞"; 
+       font-size: 15px;    
+}
+.cc-favourites .c-character a[href*="34470"] .image-cutter::before {
+    content: "18 лет, Человек";
+}
+.cc-favourites .c-character a[href*="34470"] .image-decor::before {
+    content: "Курису Макисэ";
+}
+.cc-favourites [class*="b-catalog_entry"] > a[href*="190157"] img {
     visibility: hidden;
 }
-.cc-favourites .c-anime a[href*="33502"] .image-cutter {
-    background: url("https://nyaa.shikimori.one/system/images/original/122490.gif") no-repeat center / cover;
+.cc-favourites .b-catalog_entry a[href*="190157"] .image-cutter {
+    background: url("https://dere.shikimori.one/system/images/original/122514.gif") no-repeat 15% 15% / 100%;
 }
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="37779"] img {
+.cc-favourites .c-character a[href*="190157"] .image-cutter::after {
+       content: "💞"; 
+       font-size: 15px;    
+}
+.cc-favourites .c-character a[href*="190157"] .image-cutter::before {
+    content: "14 лет, Человек";
+}
+.cc-favourites .c-character a[href*="190157"] .image-decor::before {
+    content: "Ай Ото";
+  
+}.cc-favourites [class*="b-catalog_entry"] > a[href*="160104"] img {
     visibility: hidden;
 }
-.cc-favourites .c-anime a[href*="37779"] .image-cutter {
-    background: url("https://i.ibb.co/jbNNkQQ/original.gif") no-repeat center / cover;
+.cc-favourites .b-catalog_entry a[href*="160104"] .image-cutter {
+    background: url("https://dere.shikimori.one/system/images/original/122524.gif") no-repeat 15% 15% / 100%;
 }
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="17265"] img {
+.cc-favourites .c-character a[href*="160104"] .image-cutter::after {
+       content: "💞"; 
+       font-size: 15px;    
+}
+.cc-favourites .c-character a[href*="160104"] .image-cutter::before {
+    content: "34 лет, Человек";
+}
+.cc-favourites .c-character a[href*="160104"] .image-decor::before {
+    content: "Дэви Хан";
+}
+.cc-favourites [class*="b-catalog_entry"] > a[href*="157938"] img {
     visibility: hidden;
 }
-.cc-favourites .c-anime a[href*="17265"] .image-cutter {
-    background: url("https://desu.shikimori.one/system/images/original/122478.gif") no-repeat center / cover;
+.cc-favourites .b-catalog_entry a[href*="157938"] .image-cutter {
+    background: url("https://moe.shikimori.one/system/images/original/122522.gif") no-repeat 15% 15% / 100%;
 }
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="23321"] img {
+.cc-favourites .c-character a[href*="157938"] .image-cutter::after {
+       content: "💞"; 
+       font-size: 15px;    
+}
+.cc-favourites .c-character a[href*="157938"] .image-cutter::before {
+    content: "34 лет, Человек";
+}
+.cc-favourites .c-character a[href*="157938"] .image-decor::before {
+    content: "Мира Ю";
+}
+.cc-favourites [class*="b-catalog_entry"] > a[href*="157935"] img {
     visibility: hidden;
 }
-.cc-favourites .c-anime a[href*="23321"] .image-cutter {
-    background: url("https://nyaa.shikimori.one/system/images/original/122460.gif") no-repeat center / cover;
+.cc-favourites .b-catalog_entry a[href*="157935"] .image-cutter {
+    background: url("https://desu.shikimori.one/system/images/original/122523.gif") no-repeat 15% 15% / 100%;
 }
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="11757"] img {
-    visibility: hidden;
+.cc-favourites .c-character a[href*="157935"] .image-cutter::after {
+       content: "💞"; 
+       font-size: 15px;    
 }
-.cc-favourites .c-anime a[href*="11757"] .image-cutter {
-    background: url("https://moe.shikimori.one/system/images/original/122502.gif") no-repeat center / cover;
+.cc-favourites .c-character a[href*="157935"] .image-cutter::before {
+    content: "1000+ лет, Бибизяна";
 }
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="35413"] img {
-    visibility: hidden;
+.cc-favourites .c-character a[href*="157935"] .image-decor::before {
+    content: "Мори Джин";
 }
-.cc-favourites .c-anime a[href*="35413"] .image-cutter {
-    background: url("https://desu.shikimori.one/system/images/original/122503.gif") no-repeat center / cover;
-}
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="36882"] img {
-    visibility: hidden;
-}
-.cc-favourites .c-anime a[href*="36882"] .image-cutter {
-    background: url("https://nyaa.shikimori.one/system/images/original/122505.gif") no-repeat center / cover;
-}
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="4975"] img {
-    visibility: hidden;
-}
-.cc-favourites .c-anime a[href*="4975"] .image-cutter {
-    background: url("https://moe.shikimori.one/system/images/original/122492.gif") no-repeat center / cover;
-}
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="32281"] img {
-    visibility: hidden;
-}
-.cc-favourites .c-anime a[href*="32281"] .image-cutter {
-    background: url("https://kawai.shikimori.one/system/images/original/122486.gif") no-repeat center / cover;
-}
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="30485"] img {
-    visibility: hidden;
-}
-.cc-favourites .c-anime a[href*="30485"] .image-cutter {
-    background: url("https://dere.shikimori.one/system/images/original/122479.gif") no-repeat center / cover;
-}
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="35315"] img {
-    visibility: hidden;
-}
-.cc-favourites .c-anime a[href*="35315"] .image-cutter {
-    background: url("https://desu.shikimori.one/system/images/original/122483.gif") no-repeat center / cover;
-}
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="35968"] img {
-    visibility: hidden;
-}
-.cc-favourites .c-anime a[href*="35968"] .image-cutter {
-    background: url("https://desu.shikimori.one/system/images/original/122508.gif") no-repeat center / cover;
-}
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="14719"] img {
-    visibility: hidden;
-}
-.cc-favourites .c-anime a[href*="14719"] .image-cutter {
-    background: url("https://dere.shikimori.one/system/images/original/122489.gif") no-repeat center / cover;
-}
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="22199"] img {
-    visibility: hidden;
-}
-.cc-favourites .c-anime a[href*="22199"] .image-cutter {
-    background: url("https://moe.shikimori.one/system/images/original/122512.gif") no-repeat center / cover;
-}
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="31859"] img {
-    visibility: hidden;
-}
-.cc-favourites .c-anime a[href*="31859"] .image-cutter {
-    background: url("https://moe.shikimori.one/system/images/original/122477.gif") no-repeat center / cover;
-}
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="33352"] img {
-    visibility: hidden;
-}
-.cc-favourites .c-anime a[href*="33352"] .image-cutter {
-    background: url("https://dere.shikimori.one/system/images/original/122459.gif") no-repeat center / cover;
-}
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="35120"] img {
-    visibility: hidden;
-}
-.cc-favourites .c-anime a[href*="35120"] .image-cutter {
-    background: url("https://dere.shikimori.one/system/images/original/122509.gif") no-repeat center / cover;
-}
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="35849"] img {
-    visibility: hidden;
-}
-.cc-favourites .c-anime a[href*="35849"] .image-cutter {
-    background: url("https://dere.shikimori.one/system/images/original/122504.gif") no-repeat center / cover;
-}
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="1210"] img {
-    visibility: hidden;
-}
-.cc-favourites .c-anime a[href*="1210"] .image-cutter {
-    background: url("https://moe.shikimori.one/system/images/original/122482.gif") no-repeat center / cover;
-}
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="23283"] img {
-    visibility: hidden;
-}
-.cc-favourites .c-anime a[href*="23283"] .image-cutter {
-    background: url("https://kawai.shikimori.one/system/images/original/122506.gif") no-repeat center / cover;
-}
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="37982"] img {
-    visibility: hidden;
-}
-.cc-favourites .c-anime a[href*="37982"] .image-cutter {
-    background: url("https://nyaa.shikimori.one/system/images/original/122510.gif") no-repeat center / cover;
-}
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="38826"] img {
-    visibility: hidden;
-}
-.cc-favourites .c-anime a[href*="38826"] .image-cutter {
-    background: url("https://dere.shikimori.one/system/images/original/122499.gif") no-repeat center / cover;
-}
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="2001"] img {
-    visibility: hidden;
-}
-.cc-favourites .c-anime a[href*="2001"] .image-cutter {
-    background: url("https://desu.shikimori.one/system/images/original/122493.gif") no-repeat center / cover;
-}
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="34561"] img {
-    visibility: hidden;
-}
-.cc-favourites .c-anime a[href*="34561"] .image-cutter {
-    background: url("https://nyaa.shikimori.one/system/images/original/122495.gif") no-repeat center / cover;
-}
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="36098"] img {
-    visibility: hidden;
-}
-.cc-favourites .c-anime a[href*="36098"] .image-cutter {
-    background: url("https://moe.shikimori.one/system/images/original/122507.gif") no-repeat center / cover;
-}
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="35851"] img {
-    visibility: hidden;
-}
-.cc-favourites .c-anime a[href*="35851"] .image-cutter {
-    background: url("https://desu.shikimori.one/system/images/original/122498.gif") no-repeat center / cover;
-}
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="31798"] img {
-    visibility: hidden;
-}
-.cc-favourites .c-anime a[href*="31798"] .image-cutter {
-    background: url("https://kawai.shikimori.one/system/images/original/122481.gif") no-repeat center / cover;
-}
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="28725"] img {
-    visibility: hidden;
-}
-.cc-favourites .c-anime a[href*="28725"] .image-cutter {
-    background: url("https://nyaa.shikimori.one/system/images/original/122515.gif") no-repeat center / cover;
-}
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="34636"] img {
-    visibility: hidden;
-}
-.cc-favourites .c-anime a[href*="34636"] .image-cutter {
-    background: url("https://kawai.shikimori.one/system/images/original/122511.gif") no-repeat center / cover;
-}
-.cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="43299"] img {
-    visibility: hidden;
-}
-.cc-favourites .c-anime a[href*="43299"] .image-cutter {
-    background: url("https://desu.shikimori.one/system/images/original/122488.gif") no-repeat center / cover;
-}
-.cc-favourites .c-manga[class*="b-catalog_entry"] > a[href*="111996"] img {
-    visibility: hidden;
-}
-.cc-favourites .c-manga a[href*="111996"] .image-cutter {
-    background: url("https://nyaa.shikimori.one/system/images/original/122525.gif") no-repeat center / cover;
 }

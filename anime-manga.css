@@ -1,6 +1,7 @@
 }
 /*Аниме*/
       /*cod*/
+@media screen and (min-width: 1200px) {
   .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="9253"] img {
     visibility: hidden;
 }

@@ -128,3 +128,19 @@
 .cc-favourites .c-character a[href*="157935"] .image-decor::before {
     content: "Мори Джин";
 }
+.cc-favourites [class*="b-catalog_entry"] > a[href*="65229"] img {
+    visibility: hidden;
+}
+.cc-favourites .b-catalog_entry a[href*="65229"] .image-cutter {
+    background: url("https://desu.shikimori.one/system/images/original/122523.gif") no-repeat 15% 15% / 100%;
+}
+.cc-favourites .c-character a[href*="65229"] .image-cutter::after {
+       content: "💞"; 
+       font-size: 15px;    
+}
+.cc-favourites .c-character a[href*="65229"] .image-cutter::before {
+    content: "1000+ лет, Бибизяна";
+}
+.cc-favourites .c-character a[href*="65229"] .image-decor::before {
+    content: "Мори Джин";
+}

@@ -1,3 +1,51 @@
+
+
+body:after {
+  background-image: url("https://moe.shikimori.one/system/images/original/118332.jpg");
+}
+
+@media screen and (min-width: 1px) {
+  .correct-mob-version {
+    color: normal;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  #profiles_show .profile-head {
+    background-image: url("https://www.free-wallpapers.su/data/media/1/big/3d0430.jpg");
+  }
+}
+@media screen and (min-width: 1px) {
+  html:root {
+    --white-color: 215, 225, 255;
+    --light-color: 172, 194, 234;
+    --dark-color: 133, 157, 214;
+    --bright-color: 131, 177, 255;
+    --dull-color: 104, 117, 152;
+    --input-color: 72, 105, 156;
+    --hover-bottoms-1: 20, 31, 64;
+    --buttoms-color: 25, 38, 72;
+    --hover-buttoms-2: 156, 98, 25;
+    --very-high-rating: 92, 116, 185;
+    --high-rating: 66, 88, 173;
+    --average-rating: 36, 56, 115;
+    --small-rating: 21, 35, 76;
+    --time-filled: 33, 56, 123;
+    --time-empty: 12, 22, 58;
+    --anime-inprocess: 69, 146, 76;
+    --anime-complete: 41, 107, 47;
+    --manga-inprocess: 189, 15, 86;
+    --manga-complete: 153, 0, 62;
+    --hover-color: 210, 137, 45;
+    --shadows-color: 89, 134, 181;
+    --block-color: 28, 42, 84;
+    --menu-back: 18, 23, 37;
+    --nick-cover: 37, 60, 138;
+    --popup-color: 27, 41, 84;
+    --hundred: 1;
+  }
+}
+
 /*Аниме*/
       /*cod*/
   .cc-favourites .c-anime[class*="b-catalog_entry"] > a[href*="9253"] img {
@@ -551,103 +599,4 @@
 .cc-favourites .c-character a[href*="157935"] .image-decor::before {
     content: "Мори Джин";
 }
-}
-
-/*Изменение типа франшизы*/
-@media screen and (min-width: 1025px) {
-  #profiles_show .b-achievement.is-badge .c-image {
-    padding-top: 100%;
-  }
-  #profiles_show .b-achievement.is-badge .c-image,
-  #profiles_show .b-achievement .c-image .inner a img,
-  #profiles_show .b-achievement .c-image .inner a .no-image,
-  #profiles_show .b-achievement .c-image .inner a .border,
-  #profiles_show .b-achievement .c-image .inner,
-  #profiles_show .achievements .cc-achievements .b-achievement,
-  #profiles_show .b-achievement > .c-image > .inner:after {
-    border-radius: 16rem;
-    overflow: hidden;
-  }
-  #profiles_show .b-achievement .c-image .inner {
-    transform: scale(1.009);
-  }
-  #profiles_show .b-achievement .c-image .inner a img,
-  #profiles_show .b-achievement .c-image .inner a .no-image {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: center;
-  }
-  #profiles_show .achievements .cc-achievements .b-achievement {
-    padding: 2px;
-    border: 2px solid rgba(var(--block-color), 0.6);
-  }
-  #profiles_show .b-achievement.is-badge:hover:before {
-    border-radius: 16rem;
-    padding-top: 0.25rem;
-  }
-  #profiles_show .b-achievement.is-badge::before {
-    top: 0;
-    height: 100%;
-    padding: 1.5rem 0.5rem 0;
-    line-height: 1.25;
-    font-size: 1em;
-    border-radius: 16rem;
-    transition: 0s, padding 0.4s, opacity 0.4s;
-  }
-  body#profiles_show .cc-franchises .b-badge img {
-    position: relative;
-    left: -0.4rem;
-    height: 85.5%;
-    width: 1855%;
-    max-width: 100rem;
-    max-height: 100rem;
-    min-width: 5rem;
-    min-height: 5rem;
-    margin: 2px 0 0 0;
-    padding: 2px;
-    border-radius: 0.5rem;
-    object-fit: cover;
-    object-position: center;
-    border: none;
-    box-shadow: 0 0 0 2px rgba(var(--block-color), 0.6);
-    transition: filter 0.35s ease-in-out;
-  }
-  body#profiles_show .cc-franchises .b-badge:hover img {
-    filter: brightness(60%) contrast(105%) grayscale(50%);
-  }
-  #profiles_show.p-profiles-show .achievements .cc-franchises .b-badge {
-    margin: 0 15.85% -0.9% 0;
-    left: 0.75rem;
-    width: 0.85%;
-    height: initial;
-    overflow: visible;
-    padding: 0;
-  }
-  #profiles_show .cc-franchises {
-    display: inline-flex;
-    justify-content: end;
-    overflow-x: auto;
-    overflow-y: hidden;
-    user-select: none;
-    scrollbar-width: thin;
-    scrollbar-color: #4a4a4a63 #31313021;
-  }
-  #profiles_show .cc-franchises::-webkit-scrollbar {
-    height: 6px;
-  }
-  #profiles_show .cc-franchises::-webkit-scrollbar-track {
-    display: block;
-    background-color: #4a4a4a26;
-    border-radius: 0.3rem;
-  }
-  #profiles_show [class="tipsy tipsy-normal tipsy-s"] {
-    margin-left: 6.8% !important;
-  }
-  #profiles_show .b-badge::before {
-    display: none !important;
-  }
-}
-#profiles_show .achievements .cc-3 > .c-column:nth-child(3) {
-  margin-bottom: 0;
 }

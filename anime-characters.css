@@ -1,7 +1,7 @@
 /*Персонажи*/
       /*cod*/
 @media screen and (min-width: 1200px) {
-  .cc-favourites [class*="b-catalog_entry"] > a[href*="65229"] img {
+.cc-favourites [class*="b-catalog_entry"] > a[href*="65229"] img {
     visibility: hidden;
 }
 .cc-favourites .b-catalog_entry a[href*="65229"] .image-cutter {

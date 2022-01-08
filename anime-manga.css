@@ -422,4 +422,7 @@
 .cc-favourites .c-manga a[href*="111996"] .image-cutter::before {
     content: "Бог старшей школы";
 }
+.cc-favourites .c-manga[class*="b-catalog_entry"] > a[href*="97635"] img {
+    visibility: hidden;
+}
 }

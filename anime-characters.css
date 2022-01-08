@@ -1,6 +1,5 @@
 /*Персонажи*/
       /*cod*/
-<div class="hidemobile">
 @media screen and (max-width: 600px) {
   .hidemobile {
     visibility: hidden;
@@ -134,5 +133,3 @@
     content: "Мори Джин";
 }
 }
-}
-</div>

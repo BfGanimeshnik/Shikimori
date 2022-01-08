@@ -425,4 +425,13 @@
 .cc-favourites .c-manga[class*="b-catalog_entry"] > a[href*="97635"] img {
     visibility: hidden;
 }
+.cc-favourites .c-manga a[href*="97635"] .image-cutter {
+    background: url("https://nyaa.shikimori.one/system/images/original/122525.gif") no-repeat center / cover;
+}
+.cc-favourites .c-manga a[href*="97635"] .image-decor::before {
+    content: "Оценка: 10/10";
+}
+.cc-favourites .c-manga a[href*="97635"] .image-cutter::before {
+    content: "Бог старшей школы";
+}
 }

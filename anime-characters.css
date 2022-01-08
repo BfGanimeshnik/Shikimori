@@ -1,7 +1,5 @@
 /*Персонажи*/
       /*cod*/
-@media screen and (max-width: 600px) {
-#chto_ne_pokazyvat {
 .cc-favourites [class*="b-catalog_entry"] > a[href*="65229"] img {
     visibility: hidden;
 }

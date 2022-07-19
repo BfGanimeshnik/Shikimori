@@ -1,7 +1,8 @@
 /*Персонажи*/
       /*cod*/
-      /*Майн*/
+
 @media screen and (min-width: 1200px) {
+      /*Майн*/
 .cc-favourites [class*="b-catalog_entry"] > a[href*="65229"] img {
     visibility: hidden;
 }

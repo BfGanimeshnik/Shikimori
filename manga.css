@@ -1,5 +1,6 @@
 /*Манга*/
     /*cod*/
+@media screen and (min-width: 1200px) {
     /*Бог Старшей Школы*/
 .cc-favourites .c-manga[class*="b-catalog_entry"] > a[href*="111996"] img {
     visibility: hidden;

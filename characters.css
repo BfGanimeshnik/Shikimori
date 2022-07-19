@@ -1,5 +1,6 @@
 /*Персонажи*/
       /*cod*/
+      /*Майн*/
 @media screen and (min-width: 1200px) {
 .cc-favourites [class*="b-catalog_entry"] > a[href*="65229"] img {
     visibility: hidden;
@@ -17,6 +18,7 @@
 .cc-favourites .c-character a[href*="65229"] .image-decor::before {
     content: "Майн";
 }
+      /*Акаме*/
 .cc-favourites [class*="b-catalog_entry"] > a[href*="63351"] img {
     visibility: hidden;
 }
@@ -33,6 +35,7 @@
 .cc-favourites .c-character a[href*="63351"] .image-decor::before {
     content: "Акаме";
 }
+      /*Ринтаро Окабэ*/
 .cc-favourites [class*="b-catalog_entry"] > a[href*="35252"] img {
     visibility: hidden;
 }
@@ -49,6 +52,7 @@
 .cc-favourites .c-character a[href*="35252"] .image-decor::before {
     content: "Ринтаро Окабэ";
 }
+      /*Курису Макисэ*/
 .cc-favourites [class*="b-catalog_entry"] > a[href*="34470"] img {
     visibility: hidden;
 }
@@ -65,6 +69,7 @@
 .cc-favourites .c-character a[href*="34470"] .image-decor::before {
     content: "Курису Макисэ";
 }
+      /*Ай Ото*/
 .cc-favourites [class*="b-catalog_entry"] > a[href*="190157"] img {
     visibility: hidden;
 }
@@ -80,8 +85,9 @@
 }
 .cc-favourites .c-character a[href*="190157"] .image-decor::before {
     content: "Ай Ото";
-  
-}.cc-favourites [class*="b-catalog_entry"] > a[href*="160104"] img {
+}
+      /*Дэви Хан*/
+.cc-favourites [class*="b-catalog_entry"] > a[href*="160104"] img {
     visibility: hidden;
 }
 .cc-favourites .b-catalog_entry a[href*="160104"] .image-cutter {
@@ -97,6 +103,7 @@
 .cc-favourites .c-character a[href*="160104"] .image-decor::before {
     content: "Дэви Хан";
 }
+      /*Мира Ю*/
 .cc-favourites [class*="b-catalog_entry"] > a[href*="157938"] img {
     visibility: hidden;
 }
@@ -113,6 +120,7 @@
 .cc-favourites .c-character a[href*="157938"] .image-decor::before {
     content: "Мира Ю";
 }
+      /*Мори Джин*/
 .cc-favourites [class*="b-catalog_entry"] > a[href*="157935"] img {
     visibility: hidden;
 }
